@@ -13,7 +13,6 @@
 <br>
 <p>SAMPLE INPUT:</p><br>
 <p>The quick brown fox, named Roxanne, jumped over the lazy dog.</p><br>
-<br>
 <p>SAMPLE OUTPUT:</p>
 <ol>
   <li><25/li>
@@ -22,4 +21,4 @@
   <li>6</li>
   <li>Roxanne</li>
 </ol>
-<em>i also added some extra words to the output just to make the program more readable. of course, in an official contest, i owuldn't do that!</em>
+<em>i also added some extra words to the output just to make the program more readable. of course, in an official contest, i would't do that!</em>
