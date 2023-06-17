@@ -21,4 +21,4 @@
   <li>6</li>
   <li>Roxanne</li>
 </ol>
-<em>i also added some extra words to the output just to make the program more readable. of course, in an official contest, i would't do that!</em>
+<em>i also added some extra words to the output just to make the program more readable. of course, in an official contest, i wouldn't do that!</em>
