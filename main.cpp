@@ -43,7 +43,6 @@ void total_uppercase(string str){
 }
 
 void most_frequent(string str) {
-    char frequentest; //is that even a word?
     int count[26] = {0};
     for(int i = 0; i < str.length(); i++) {
         if(isalpha(str[i])) {
@@ -57,13 +56,7 @@ void most_frequent(string str) {
             highest_count = count[i];
         }
     }
-    for(int i = 0; i < 26; i++) {
-        if(count[i] == highest_count) {
-            frequentest = 'a' + i;
-            break;
-        }
-    }
-    cout << "4. most frequent letter: " << frequentest << endl;
+    cout << "4. number of times the most frequent letter appears: " << highest_count << endl;
 }
 
 void longest_word(string str) {
