@@ -15,7 +15,7 @@
 <p>The quick brown fox, named Roxanne, jumped over the lazy dog.</p><br>
 <p>SAMPLE OUTPUT:</p>
 <ol>
-  <li><25/li>
+  <li>25</li>
   <li>19</li>
   <li>3</li>
   <li>6</li>
